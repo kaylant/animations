@@ -21,8 +21,8 @@
                                 <rect key="frame" x="33" y="191" width="308" height="247"/>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QCA-Ku-UL7">
-                                <rect key="frame" x="139" y="485" width="97" height="30"/>
-                                <state key="normal" title="Update Image"/>
+                                <rect key="frame" x="152" y="485" width="71" height="30"/>
+                                <state key="normal" title="Start/Stop"/>
                                 <connections>
                                     <action selector="updateImage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="09s-Dh-GPg"/>
                                 </connections>
